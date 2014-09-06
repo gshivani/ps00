@@ -8,8 +8,20 @@ Date  Who       Start  Stop  Interruptions Question TimeOnTask    Comments
 9/5   SG        19:05  19:30					   Lesson 0.4- Read the notes  
 9/6   SG	09:10  09:29	0				   Ex1& 2
 ============committing to git: 9/5 09:29 ===================
-    
+9/6   SG	09:31  10:59    1                                  Ex 3 to 8
+============committing to git: 9/5 11:01 ===================
+
+
+
+
+
+
+
 Total Time On Task Ex1 (minutes)                   
 Total Time On Task Ex2 (minutes)                   
 TOTEx1 (hours and tenths)                          
 TOTEx2 (hours and tenths)                         
+
+
+
+
