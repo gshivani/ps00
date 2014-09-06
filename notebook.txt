@@ -7,10 +7,11 @@ Date  Who       Start  Stop  Interruptions Question TimeOnTask    Comments
 ============committing to git: 9/5 18:30 ===================
 9/5   SG        19:05  19:30					   Lesson 0.4- Read the notes  
 9/6   SG	09:10  09:29	0				   Ex1& 2
-============committing to git: 9/5 09:29 ===================
+============committing to git: 9/6 09:29 ===================
 9/6   SG	09:31  10:59    1                                  Ex 3 to 8
-============committing to git: 9/5 11:01 ===================
-
+============committing to git: 9/6 11:01 ===================
+9/6   SG        03:10  04:30                                       Ex 9&10
+============committing to git: 9/6 04:32 ===================
 
 
 
