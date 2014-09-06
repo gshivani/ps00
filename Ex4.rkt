@@ -3,7 +3,9 @@
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname Ex4) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
 (define (tip bill percent)
   (* bill percent))
-(tip 100 .15)
-(tip 100 .75)
-(tip 10 0.15)
-(tip 20 0.17)
+
+
+(check-expect (tip 100 .15) 15 )
+(check-within (tip 20 .17) 3.4 2 )
+(check-within (tip 10 .75) 7.5 2 )
+

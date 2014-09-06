@@ -3,6 +3,8 @@
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname Ex7) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
 (define (circumference r)
   ( * 2 pi r))
-(circumference 1)
-(circumference 0)
-(circumference 5)
+
+
+(check-within (circumference 1) 6.28 4)
+(check-expect (circumference 0) 0)
+(check-within (circumference 5) 31.4 2)

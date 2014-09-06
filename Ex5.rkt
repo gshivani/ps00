@@ -9,5 +9,6 @@
 
 (define (sq x)
   (* x x))
-(sq 5)
-(sq 10)
+
+(check-expect (sq 5) 25)
+(check-expect (sq 10) 100)

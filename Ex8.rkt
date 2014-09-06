@@ -6,11 +6,9 @@
 ; RETURNS: its area, using the formula pi * r^2
 ; Examples:
 ; (circle-area 1) => 3.141592653589793
-; (circle-area 0) => 0
 ; (circle-area 5) => 78.53981633974483
+; (circle-area 7) => 153.93804002589985
 
 (define (circle-area r)
   ( * pi (* r r)))
-(circle-area 1)
-(circle-area 0)
-(circle-area 5)
+

@@ -12,9 +12,10 @@
      (= (min a b c) c) (+ a b) 
      ( + (max a b) c)))
 
-(large-sum 2 4 5)
-(large-sum 3 2 12)
-(large-sum 9 2 7)
+(check-expect (large-sum 2 4 5) 9)
+(check-expect (large-sum 3 2 12) 15)
+(check-expect (large-sum 9 2 7) 16)
+
 
 
           

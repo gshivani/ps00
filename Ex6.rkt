@@ -5,11 +5,12 @@
 ; GIVEN: Co-efficients of a quadratic equation
 ; RETURNS: The root of the quadratic equation
 ; Examples:
-; (quadratic-root 2 4 4)
-; (quadratic-root 5 4 4)
+; (quadratic-root 2 4 4) => -1+1i
+; (quadratic-root 5 4 4) => -0.4+0.8i
 
 (define (quadratic-root a b c)
   (/( + (- b) (sqrt (-(* b b) (* 4 a c)))) (* 2 a)))
+
 
 (quadratic-root 2 4 4)
 (quadratic-root 5 4 4)
