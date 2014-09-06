@@ -14,14 +14,28 @@ Date  Who       Start  Stop  Interruptions Question TimeOnTask    Comments
 ============committing to git: 9/6 04:32 ===================
 
 
-
-
-
-
-Total Time On Task Ex1 (minutes)                   
-Total Time On Task Ex2 (minutes)                   
-TOTEx1 (hours and tenths)                          
-TOTEx2 (hours and tenths)                         
+Total Time On Task Ex1 (minutes)             10      
+Total Time On Task Ex2 (minutes) 	     10
+Total Time On Task Ex3 (minutes)             15
+Total Time On Task Ex4 (minutes)             15
+Total Time On Task Ex5 (minutes)             15
+Total Time On Task Ex6 (minutes)             12
+Total Time On Task Ex7 (minutes)             13
+Total Time On Task Ex8 (minutes)             20  
+Total Time On Task Ex9 (minutes)             15  
+Total Time On Task Ex10 (minutes)            25                      
+TOTEx1 (hours and tenths)                    0.16      
+TOTEx2 (hours and tenths)                    0.16
+TOTEx3 (hours and tenths)                    0.25
+TOTEx4 (hours and tenths)                    0.25
+TOTEx5 (hours and tenths)                    0.25 
+TOTEx6 (hours and tenths)                    0.2
+TOTEx7 (hours and tenths)                    0.2
+TOTEx8 (hours and tenths)                    0.3
+TOTEx9 (hours and tenths)                    0.25 
+TOTEx10 (hours and tenths)                   0.4
+  
+                         
 
 
 

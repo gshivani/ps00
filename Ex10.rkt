@@ -4,8 +4,18 @@
 ; large-sum: Number Number Number -> Number
 ; RETURNS: The sum of the two larger numbers
 ; Examples:
-; (large-sum 2 4 5)
-; (large-sum 7 2 9)
+; (large-sum 2 4 5) => 9
+; (large-sum 3 2 12) => 15
 
 (define (large-sum a b c)
-  (
+  ( if 
+     (= (min a b c) c) (+ a b) 
+     ( + (max a b) c)))
+
+(large-sum 2 4 5)
+(large-sum 3 2 12)
+(large-sum 9 2 7)
+
+
+          
+          
