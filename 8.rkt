@@ -9,9 +9,13 @@
 ; (circle-area 5) => 78.53981633974483
 ; (circle-area 7) => 153.93804002589985
 
-#lang racket
+
 (define (circle-area r)
-  (printf "Enter the radius")
-  )
+  (* pi r r))
+
   
 
+;Test-cases
+(check-within (circle-area 1) 3.14 .1592)
+(check-within (circle-area 5) 78.5 .3981)
+(check-within (circle-area 7) 153.9 .3804)
