@@ -11,7 +11,7 @@
 (define (quadratic-root a b c)
   (/( + (- b) (sqrt (-(* b b) (* 4 a c)))) (* 2 a)))
 
-
+;Test-case
 (check-within (quadratic-root 2 4 4) -1+1i 4)
 (check-within (quadratic-root 5 4 4) -0.4+0.8i 2)
 
